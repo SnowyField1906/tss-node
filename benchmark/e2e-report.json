@@ -1,0 +1,422 @@
+{
+    "N=3": {
+        "dkg": [442, 28, 6],
+        "transactions": [
+            {
+                "propose": [8, 49],
+                "tss": [24, 23, 16, 15],
+                "settlement": [40]
+            },
+            {
+                "propose": [22, 62],
+                "tss": [28, 22, 28, 13],
+                "settlement": [15]
+            },
+            {
+                "propose": [16, 67],
+                "tss": [29, 47, 18, 14],
+                "settlement": [15]
+            },
+            {
+                "propose": [14, 50],
+                "tss": [30, 51, 17, 6],
+                "settlement": [7]
+            },
+            {
+                "propose": [19, 40],
+                "tss": [27, 28, 16, 7],
+                "settlement": [10]
+            },
+            {
+                "propose": [23, 69],
+                "tss": [33, 26, 16, 4],
+                "settlement": [12]
+            },
+            {
+                "propose": [12, 83],
+                "tss": [35, 28, 22, 4],
+                "settlement": [3]
+            },
+            {
+                "propose": [7, 22],
+                "tss": [28, 27, 16, 6],
+                "settlement": [18]
+            },
+            {
+                "propose": [69, 120],
+                "tss": [31, 28, 18, 5],
+                "settlement": [8]
+            },
+            {
+                "propose": [5, 18],
+                "tss": [20, 24, 14, 4],
+                "settlement": [2]
+            },
+            {
+                "propose": [6, 17],
+                "tss": [20, 25, 17, 6],
+                "settlement": [3]
+            },
+            {
+                "propose": [6, 19],
+                "tss": [24, 24, 15, 5],
+                "settlement": [10]
+            },
+            {
+                "propose": [7, 37],
+                "tss": [32, 25, 15, 6],
+                "settlement": [6]
+            },
+            {
+                "propose": [7, 24],
+                "tss": [22, 22, 15, 6],
+                "settlement": [9]
+            },
+            {
+                "propose": [11, 48],
+                "tss": [29, 23, 15, 6],
+                "settlement": [8]
+            },
+            {
+                "propose": [12, 40],
+                "tss": [28, 22, 15, 4],
+                "settlement": [12]
+            },
+            {
+                "propose": [14, 39],
+                "tss": [27, 23, 15, 5],
+                "settlement": [10]
+            },
+            {
+                "propose": [14, 41],
+                "tss": [26, 26, 14, 6],
+                "settlement": [8]
+            },
+            {
+                "propose": [12, 44],
+                "tss": [19, 21, 16, 5],
+                "settlement": [10]
+            },
+            {
+                "propose": [12, 51],
+                "tss": [24, 21, 15, 7],
+                "settlement": [5]
+            }
+        ]
+    },
+    "N=7": {
+        "dkg": [1288, 83, 14],
+        "transactions": [
+            {
+                "propose": [16, 55],
+                "tss": [26, 61, 41, 9],
+                "settlement": [17]
+            },
+            {
+                "propose": [35, 63],
+                "tss": [24, 76, 41, 8],
+                "settlement": [13]
+            },
+            {
+                "propose": [38, 64],
+                "tss": [26, 64, 41, 8],
+                "settlement": [11]
+            },
+            {
+                "propose": [25, 47],
+                "tss": [30, 60, 41, 10],
+                "settlement": [11]
+            },
+            {
+                "propose": [17, 49],
+                "tss": [26, 62, 40, 10],
+                "settlement": [12]
+            },
+            {
+                "propose": [20, 40],
+                "tss": [26, 62, 39, 6],
+                "settlement": [12]
+            },
+            {
+                "propose": [21, 50],
+                "tss": [28, 62, 39, 6],
+                "settlement": [7]
+            },
+            {
+                "propose": [27, 52],
+                "tss": [27, 63, 40, 7],
+                "settlement": [5]
+            },
+            {
+                "propose": [19, 50],
+                "tss": [26, 59, 38, 6],
+                "settlement": [5]
+            },
+            {
+                "propose": [12, 41],
+                "tss": [30, 63, 38, 5],
+                "settlement": [9]
+            },
+            {
+                "propose": [12, 47],
+                "tss": [31, 62, 38, 5],
+                "settlement": [15]
+            },
+            {
+                "propose": [18, 58],
+                "tss": [23, 60, 43, 5],
+                "settlement": [15]
+            },
+            {
+                "propose": [16, 36],
+                "tss": [26, 61, 39, 6],
+                "settlement": [11]
+            },
+            {
+                "propose": [18, 52],
+                "tss": [26, 61, 41, 7],
+                "settlement": [12]
+            },
+            {
+                "propose": [23, 46],
+                "tss": [26, 62, 42, 6],
+                "settlement": [13]
+            },
+            {
+                "propose": [21, 45],
+                "tss": [25, 59, 39, 6],
+                "settlement": [6]
+            },
+            {
+                "propose": [14, 44],
+                "tss": [30, 63, 43, 16],
+                "settlement": [8]
+            },
+            {
+                "propose": [22, 47],
+                "tss": [28, 61, 38, 7],
+                "settlement": [11]
+            },
+            {
+                "propose": [23, 54],
+                "tss": [21, 59, 40, 6],
+                "settlement": [8]
+            },
+            {
+                "propose": [20, 41],
+                "tss": [27, 62, 39, 7],
+                "settlement": [9]
+            }
+        ]
+    },
+    "N=11": {
+        "dkg": [2636, 255, 35],
+        "transactions": [
+            {
+                "propose": [26, 88],
+                "tss": [45, 115, 71, 13],
+                "settlement": [9]
+            },
+            {
+                "propose": [55, 81],
+                "tss": [39, 117, 65, 8],
+                "settlement": [8]
+            },
+            {
+                "propose": [40, 70],
+                "tss": [30, 102, 71, 14],
+                "settlement": [8]
+            },
+            {
+                "propose": [37, 61],
+                "tss": [28, 100, 66, 40],
+                "settlement": [6]
+            },
+            {
+                "propose": [28, 52],
+                "tss": [23, 105, 66, 8],
+                "settlement": [5]
+            },
+            {
+                "propose": [28, 48],
+                "tss": [27, 101, 66, 16],
+                "settlement": [21]
+            },
+            {
+                "propose": [22, 50],
+                "tss": [25, 106, 81, 7],
+                "settlement": [3]
+            },
+            {
+                "propose": [20, 34],
+                "tss": [23, 104, 66, 6],
+                "settlement": [6]
+            },
+            {
+                "propose": [27, 43],
+                "tss": [26, 103, 64, 7],
+                "settlement": [4]
+            },
+            {
+                "propose": [29, 48],
+                "tss": [29, 102, 66, 7],
+                "settlement": [5]
+            },
+            {
+                "propose": [26, 44],
+                "tss": [27, 104, 67, 8],
+                "settlement": [5]
+            },
+            {
+                "propose": [26, 63],
+                "tss": [24, 115, 70, 16],
+                "settlement": [8]
+            },
+            {
+                "propose": [24, 42],
+                "tss": [24, 102, 64, 7],
+                "settlement": [6]
+            },
+            {
+                "propose": [28, 48],
+                "tss": [23, 102, 68, 9],
+                "settlement": [5]
+            },
+            {
+                "propose": [25, 48],
+                "tss": [25, 102, 66, 6],
+                "settlement": [7]
+            },
+            {
+                "propose": [26, 47],
+                "tss": [29, 108, 72, 6],
+                "settlement": [5]
+            },
+            {
+                "propose": [27, 47],
+                "tss": [33, 101, 68, 6],
+                "settlement": [30]
+            },
+            {
+                "propose": [16, 83],
+                "tss": [34, 158, 103, 47],
+                "settlement": [5]
+            },
+            {
+                "propose": [38, 62],
+                "tss": [25, 102, 65, 6],
+                "settlement": [8]
+            },
+            {
+                "propose": [25, 47],
+                "tss": [22, 106, 65, 7],
+                "settlement": [6]
+            }
+        ]
+    },
+    "N=15": {
+        "dkg": [4020, 318, 74],
+        "transactions": [
+            {
+                "propose": [55, 137],
+                "tss": [65, 231, 126, 17],
+                "settlement": [2]
+            },
+            {
+                "propose": [55, 74],
+                "tss": [59, 211, 135, 14],
+                "settlement": [2]
+            },
+            {
+                "propose": [24, 51],
+                "tss": [72, 218, 116, 10],
+                "settlement": [3]
+            },
+            {
+                "propose": [37, 60],
+                "tss": [36, 194, 119, 12],
+                "settlement": [3]
+            },
+            {
+                "propose": [22, 43],
+                "tss": [39, 181, 124, 8],
+                "settlement": [4]
+            },
+            {
+                "propose": [20, 42],
+                "tss": [32, 181, 114, 21],
+                "settlement": [10]
+            },
+            {
+                "propose": [24, 43],
+                "tss": [38, 201, 134, 21],
+                "settlement": [3]
+            },
+            {
+                "propose": [27, 44],
+                "tss": [36, 185, 114, 9],
+                "settlement": [6]
+            },
+            {
+                "propose": [41, 63],
+                "tss": [34, 175, 117, 10],
+                "settlement": [2]
+            },
+            {
+                "propose": [26, 48],
+                "tss": [39, 180, 123, 10],
+                "settlement": [12]
+            },
+            {
+                "propose": [26, 48],
+                "tss": [32, 185, 118, 7],
+                "settlement": [5]
+            },
+            {
+                "propose": [17, 36],
+                "tss": [33, 205, 177, 24],
+                "settlement": [2]
+            },
+            {
+                "propose": [21, 49],
+                "tss": [30, 187, 112, 8],
+                "settlement": [8]
+            },
+            {
+                "propose": [25, 46],
+                "tss": [40, 194, 109, 11],
+                "settlement": [5]
+            },
+            {
+                "propose": [37, 58],
+                "tss": [35, 180, 110, 9],
+                "settlement": [9]
+            },
+            {
+                "propose": [29, 53],
+                "tss": [30, 180, 119, 8],
+                "settlement": [6]
+            },
+            {
+                "propose": [23, 45],
+                "tss": [30, 205, 105, 8],
+                "settlement": [4]
+            },
+            {
+                "propose": [26, 41],
+                "tss": [29, 183, 141, 8],
+                "settlement": [5]
+            },
+            {
+                "propose": [27, 46],
+                "tss": [35, 178, 111, 8],
+                "settlement": [6]
+            },
+            {
+                "propose": [24, 40],
+                "tss": [31, 190, 123, 16],
+                "settlement": [4]
+            }
+        ]
+    }
+}

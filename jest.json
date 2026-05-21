@@ -1,0 +1,18 @@
+{
+    "moduleFileExtensions": ["js", "json", "ts"],
+    "rootDir": ".",
+    "testEnvironment": "node",
+    "transform": {
+        "^.+\\.(t|j)s$": "ts-jest"
+    },
+    "testTimeout": 30000,
+    "moduleNameMapper": {
+        "^@config(.*)$": "<rootDir>/config$1",
+        "^@schemas(.*)$": "<rootDir>/schemas$1",
+        "^@common(.*)$": "<rootDir>/common$1",
+        "^@controllers(.*)$": "<rootDir>/controllers$1",
+        "^@services(.*)$": "<rootDir>/services$1",
+        "^@dtos(.*)$": "<rootDir>/dtos$1",
+        "^@libs(.*)$": "<rootDir>/libs$1"
+    }
+}
